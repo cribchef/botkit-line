@@ -12,5 +12,5 @@ var merge = require("deepmerge");
 
 
 module.exports = {
-  
+    
 }
